@@ -24,3 +24,80 @@ img{
   color: #6d6f7b;
 
 }
+
+.ui.two.column.grid.centered.container{
+  margin-top: 50px;
+  width: 1500px;
+  height: 800px;
+  margin-right: 50px;
+  padding-left: 120px;
+  padding-right: 20px;
+  margin-top: 40px;
+
+
+}
+.column{
+  height: 600px;
+  width: 1230px;
+  padding: 10px;
+  float: inherit;
+
+}
+.ui.fluid.image{
+  height: 650px;
+  width: 900px;
+}
+
+
+
+.grad-background {
+  background-size: cover;
+  height: 500px;
+  width: 1500px;
+  float: left;
+}
+
+h2{
+  font-size: 80px;
+  text-align: left;
+}
+
+h3{
+  font-size: 20px;
+  text-align: left;
+}
+
+
+
+.column.main{
+  padding-left: 500px;
+}
+
+.ui.violet.button{
+  float: left;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  padding-right: 50px;
+  padding-left: 50px;
+  font-size: 15px;
+}
+
+.ui.three.column.grid.container{
+  height: 100px;
+}
+.footer-background{
+  background-color: black;
+  height: 300px;
+  padding-top: 50px;
+  padding-bottom:50px;
+  color:white;
+  margin-top: 713px;
+}
+
+.column.foot{
+  height: 50px;
+}
+
+.ui.borderless.footer.menu{
+  background-color: black;
+}
